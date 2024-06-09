@@ -56,7 +56,7 @@ The GUI-based calculator application is implemented in C# using MonoDevelop with
 
 2. Open the solution file `calculatorD.sln` in MonoDevelop:
     ```sh
-    monodevelop CalculatorApp/calculatorD.sln
+    monodevelop C-Calculator-Application/calculatorD.sln
     ```
 
 3. Build and run the application from MonoDevelop.
